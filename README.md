@@ -6,6 +6,7 @@ Before using MySQL with Python, ensure you have:
 - Python installed (Python 3 recommended)
 - MySQL Server installed and running
 - The `mysql-connector-python` package installed:
+
   ```sh
   pip install mysql-connector-python
   ```
