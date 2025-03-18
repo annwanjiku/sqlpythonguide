@@ -1,4 +1,4 @@
-# General Guide to Using SQL with Python (MySQL Connector)
+# A Guide into Using SQL with Python (MySQL Connector)
 
 ## Overview
 This guide provides a general introduction to using Python to interact with a MySQL database using the `mysql-connector-python` library. It covers setting up a connection, retrieving data, and executing queries.
